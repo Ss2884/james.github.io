@@ -19,16 +19,16 @@ body{
   overflow: hidden;
 }
 .btn1,.btn2{
-  color: #ffff;
+  color: #ffffff;
 }
 .btn3,.btn4{
-  color: #ffff;
+  color: #ffffff;
 }
 .btn1:hover,.btn2:hover{
-  color: #ffff;
+  color: #ffffff;
 }
 .btn3:hover,.btn4:hover{
-  color: #ffff;
+  color: #ffffff;
 }
 .btn::before{
   content: "";
