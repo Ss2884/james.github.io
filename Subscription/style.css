@@ -7,7 +7,7 @@ body{
   margin-top: 360px;
 }
 .btn{
-  border: 1px solid rgb(203,59,59);
+  border: 1px solid rgb(0,0,0);
   background: none;
   padding: 10px 20px;
   font-size: 20px;
@@ -22,13 +22,13 @@ body{
   color: rgb(0,0,0);
 }
 .btn3,.btn4{
-  color: #000000;
+  color: rgb(0,0,0);
 }
 .btn1:hover,.btn2:hover{
-  color: #000000;
+  color: rgb(0,0,0);
 }
 .btn3:hover,.btn4:hover{
-  color: #000000;
+  color: rgb(0,0,0);
 }
 .btn::before{
   content: "";
